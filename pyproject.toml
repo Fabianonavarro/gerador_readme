@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "gerador-readme"   # Nome do pacote
+version = "0.1.0"         # Versão do pacote
+description = "Um gerador de README.md para projetos Python."   # Descrição do pacote
+authors = ["Fabianonavarro <nav.info.suporte@gmail.com>"]  # Autor do pacote
+license = "MIT"           # Licença do pacote
+readme = "README.md"     # Localização do README para documentação
+
+[tool.poetry.dependencies]
+python = ">=3.8"         # Versão mínima do Python necessária
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"         # Dependência de desenvolvimento para testes
+
+[build-system]
+requires = ["setuptools", "wheel"]  # Ferramentas necessárias para construir o pacote
+build-backend = "setuptools.build_meta"  # Backend para construção do pacote
+
+[tool.poetry.scripts]
+gerador-readme = "gerador_readme.gerador:main"  # Mapeia o comando para a função main
