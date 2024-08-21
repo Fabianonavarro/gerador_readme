@@ -94,26 +94,35 @@ Contribuição
 Se você quiser contribuir para o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Agradecemos sua contribuição!
 
 Contato
-LinkedIn: Seu LinkedIn (opcional)
-GitHub: Seu GitHub (opcional)
-Email: seuemail@dominio.com
-Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para detalhes.
 
-markdown
+LinkedIn: Seu LinkedIn (opcional)
+
+GitHub: Seu GitHub (opcional)
+
+Email: seuemail@dominio.com
+
+Licença
+
+Este projeto está licenciado sob a Licença MIT 
+
+- consulte o arquivo LICENSE para detalhes.
+
+@@@@@@ markdown
 Copiar código
 
 ### Instruções Finais
 
 1. **Certifique-se de que todos os links estejam corretos.**
+
 2. **Atualize as informações de contato conforme necessário.**
+
 3. **Teste o processo completo em um ambiente limpo para garantir que todas as etapas funcionem conforme esperado.**
 
 Se precisar de mais alguma ajuda ou ajuste, é só avisar!
 
 --------------------------------------------------------
 Licença 📜
-Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
+Distribuído sob a licença MIT.  Veja o arquivo LICENSE para mais informações.
 
 Contato 📬
 Autor: Fabianonavarro
