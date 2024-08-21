@@ -47,6 +47,7 @@ Instale o pacote localmente para testar o comando gerador-readme:
 comando Copiar código 'poetry run pip install dist/gerador_readme-0.1.0-py3-none-any.whl'
 
 Exemplo de Uso 📋
+
 @@ Execute o Gerador de README.md @@
 
 Após a instalação, execute o comando gerador-readme:
