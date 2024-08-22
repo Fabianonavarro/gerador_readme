@@ -3,6 +3,7 @@
 Um gerador de README.md para projetos Python. Com o `gerador-readme`, você pode criar facilmente um arquivo README.md com informações básicas sobre seu projeto.
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Funcionalidades 🚀
@@ -38,7 +39,7 @@ comando Copiar código  'poetry install'
 Ative o ambiente virtual criado pelo Poetry. Dependendo do seu sistema operacional, o comando pode variar:
 
 No Windows:
-comando Copiar código '.\.venv\Scripts\activate'
+comando Copiar código '.\venv\Scripts\activate'
 
 @@ Instale o Pacote Localmente @@
 
