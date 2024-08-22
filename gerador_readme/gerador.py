@@ -1,5 +1,3 @@
-# gerador_readme/gerador.py
-
 import os
 
 def main():
