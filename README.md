@@ -1,6 +1,5 @@
 # Gerador de README.md 📝
-
-Um gerador de README.md para projetos Python. Com o `gerador-readme`, você pode criar facilmente um arquivo README.md com informações básicas sobre seu projeto.
+Este projeto é uma ferramenta versátil que facilita a criação de um arquivo README.md para qualquer tipo de projeto. Seja para projetos Python, JavaScript, ou qualquer outro tipo, o Gerador de README.md ajuda você a criar rapidamente um README com informações com informações básicas sobre seu projeto.
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
